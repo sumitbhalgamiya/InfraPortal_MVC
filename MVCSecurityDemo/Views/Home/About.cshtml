@@ -1,0 +1,155 @@
+﻿@{
+    ViewBag.Title = "About Us";
+}
+
+<style>
+    .about-container {
+        min-height: calc(100vh - 120px);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        padding: 50px 20px;
+    }
+
+    .about-card {
+        background: #fff;
+        border-radius: 20px;
+        padding: 50px;
+        box-shadow: 0 15px 35px rgba(0,0,0,.15);
+        margin-bottom: 30px;
+    }
+
+    .about-title {
+        color: #4f46e5;
+        font-size: 42px;
+        font-weight: 700;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .about-subtitle {
+        color: #6b7280;
+        text-align: center;
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+
+    .about-content {
+        font-size: 16px;
+        line-height: 1.9;
+        color: #555;
+        text-align: justify;
+    }
+
+    .info-card {
+        background: #fff;
+        border-radius: 15px;
+        padding: 30px;
+        text-align: center;
+        box-shadow: 0 8px 25px rgba(0,0,0,.08);
+        height: 100%;
+        transition: all .3s ease;
+    }
+
+    .info-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .info-icon {
+        font-size: 45px;
+        margin-bottom: 15px;
+    }
+
+    .info-title {
+        font-size: 22px;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .info-text {
+        color: #6b7280;
+        line-height: 1.6;
+    }
+
+    @@media(max-width:768px) {
+        .about-card {
+            padding: 30px;
+        }
+
+        .about-title {
+            font-size: 32px;
+        }
+    }
+</style>
+
+<div class="about-container">
+
+    <div class="container">
+
+        <div class="about-card">
+
+            <h1 class="about-title">About Us</h1>
+
+            <p class="about-subtitle">
+                Secure Authentication & User Management System
+            </p>
+
+            <div class="about-content">
+                <p>
+                    Welcome to our MVC Security Demo application. This platform
+                    demonstrates modern authentication, authorization, and user
+                    management capabilities built using ASP.NET MVC technologies.
+                </p>
+
+                <p>
+                    Our objective is to provide a secure, scalable, and user-friendly
+                    environment where users can register, log in, and manage their
+                    accounts efficiently while following industry-standard security
+                    practices.
+                </p>
+
+                <p>
+                    The application is designed with modern UI principles,
+                    responsive layouts, and robust security features to ensure
+                    a seamless experience across desktop, tablet, and mobile devices.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-4 mb-4">
+                <div class="info-card">
+                    <div class="info-icon">🔒</div>
+                    <div class="info-title">Security</div>
+                    <div class="info-text">
+                        Secure mechanisms.
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="info-card">
+                    <div class="info-icon">⚡</div>
+                    <div class="info-title">Performance</div>
+                    <div class="info-text">
+                        Optimized architecture for speed and scalability.
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="info-card">
+                    <div class="info-icon">👥</div>
+                    <div class="info-title">User Experience</div>
+                    <div class="info-text">
+                        Clean, responsive and intuitive user interface.
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

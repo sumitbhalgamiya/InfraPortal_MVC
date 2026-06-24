@@ -1,0 +1,265 @@
+﻿@model MVCSecurityDemo.Models.IndexViewModel
+
+@{
+    ViewBag.Title = "My Account";
+}
+
+<style>
+    .manage-container {
+        min-height: calc(100vh - 120px);
+        background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+        padding: 40px 20px;
+    }
+
+    .welcome-card {
+        background: #fff;
+        border-radius: 20px;
+        padding: 30px;
+        margin-bottom: 30px;
+        box-shadow: 0 10px 30px rgba(0,0,0,.15);
+    }
+
+    .welcome-title {
+        color: #4f46e5;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+    .dashboard-card {
+        background: #fff;
+        border-radius: 16px;
+        padding: 30px;
+        text-align: center;
+        height: 100%;
+        transition: all .3s ease;
+        box-shadow: 0 8px 25px rgba(0,0,0,.08);
+        border: none;
+    }
+
+        .dashboard-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 35px rgba(0,0,0,.15);
+        }
+
+    .card-icon {
+        font-size: 50px;
+        margin-bottom: 15px;
+    }
+
+    .card-title {
+        font-size: 20px;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .card-desc {
+        color: #6b7280;
+        min-height: 50px;
+        margin-bottom: 20px;
+    }
+
+    .btn-manage {
+        background: #4f46e5;
+        color: #fff;
+        border-radius: 8px;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-weight: 600;
+        display: inline-block;
+    }
+
+        .btn-manage:hover {
+            background: #4338ca;
+            color: #fff;
+            text-decoration: none;
+        }
+
+    .status-msg {
+        background: #d1fae5;
+        color: #065f46;
+        padding: 12px 15px;
+        border-radius: 8px;
+        margin-top: 15px;
+    }
+</style>
+
+<div class="manage-container">
+
+    <div class="container">
+
+        <div class="welcome-card">
+
+            <h2 class="welcome-title">
+                Account Dashboard
+            </h2>
+
+            <p>
+                Manage your account settings and security preferences.
+            </p>
+
+            @if (!String.IsNullOrEmpty(ViewBag.StatusMessage))
+            {
+                <div class="status-msg">
+                    @ViewBag.StatusMessage
+                </div>
+            }
+
+        </div>
+
+        <div class="row">
+
+            <!-- Change Password -->
+
+            <div class="col-md-4 col-sm-6" style="margin-bottom:25px;">
+                <div class="dashboard-card">
+
+                    <div class="card-icon">🔑</div>
+
+                    <div class="card-title">
+                        Password Settings
+                    </div>
+
+                    <div class="card-desc">
+                        Update and secure your account password.
+                    </div>
+
+                    @if (Model.HasPassword)
+                    {
+                        @Html.ActionLink(
+                            "Change Password",
+                            "ChangePassword",
+                            null,
+                            new { @class = "btn-manage" })
+                    }
+                    else
+                    {
+                        @Html.ActionLink(
+                            "Create Password",
+                            "SetPassword",
+                            null,
+                            new { @class = "btn-manage" })
+                    }
+
+                </div>
+            </div>
+
+            <!-- External Logins -->
+
+            <div class="col-md-4 col-sm-6" style="margin-bottom:25px;">
+                <div class="dashboard-card">
+
+                    <div class="card-icon">🌐</div>
+
+                    <div class="card-title">
+                        External Logins
+                    </div>
+
+                    <div class="card-desc">
+                        Manage Google, Microsoft and social logins.
+                    </div>
+
+                    @Html.ActionLink(
+                        "Manage Logins",
+                        "ManageLogins",
+                        null,
+                        new { @class = "btn-manage" })
+
+                </div>
+            </div>
+
+            <!-- Phone Number -->
+
+            <div class="col-md-4 col-sm-6" style="margin-bottom:25px;">
+                <div class="dashboard-card">
+
+                    <div class="card-icon">📱</div>
+
+                    <div class="card-title">
+                        Phone Number
+                    </div>
+
+                    <div class="card-desc">
+                        Add or verify your mobile number.
+                    </div>
+
+                    @Html.ActionLink(
+                        "Add Phone",
+                        "AddPhoneNumber",
+                        null,
+                        new { @class = "btn-manage" })
+
+                </div>
+            </div>
+
+            <!-- Two Factor -->
+
+            <div class="col-md-4 col-sm-6" style="margin-bottom:25px;">
+                <div class="dashboard-card">
+
+                    <div class="card-icon">🛡️</div>
+
+                    <div class="card-title">
+                        Two-Factor Authentication
+                    </div>
+
+                    <div class="card-desc">
+                        Add an extra layer of account security.
+                    </div>
+
+                    <a href="#" class="btn-manage">
+                        Coming Soon
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- Account Info -->
+
+            <div class="col-md-4 col-sm-6" style="margin-bottom:25px;">
+                <div class="dashboard-card">
+
+                    <div class="card-icon">👤</div>
+
+                    <div class="card-title">
+                        Account Information
+                    </div>
+
+                    <div class="card-desc">
+                        View and manage your account details.
+                    </div>
+
+                    <a href="#" class="btn-manage">
+                        Coming Soon
+                    </a>
+
+                </div>
+            </div>
+
+            <!-- Security -->
+
+            <div class="col-md-4 col-sm-6" style="margin-bottom:25px;">
+                <div class="dashboard-card">
+
+                    <div class="card-icon">🔒</div>
+
+                    <div class="card-title">
+                        Security Center
+                    </div>
+
+                    <div class="card-desc">
+                        Review security and authentication settings.
+                    </div>
+
+                    <a href="#" class="btn-manage">
+                        Coming Soon
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

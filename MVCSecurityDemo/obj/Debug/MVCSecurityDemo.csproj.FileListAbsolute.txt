@@ -1,0 +1,171 @@
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\MVCSecurityDemo.dll.config
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\MVCSecurityDemo.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\MVCSecurityDemo.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Antlr3.Runtime.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\EntityFramework.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\EntityFramework.SqlServer.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Newtonsoft.Json.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Owin.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Helpers.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Mvc.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Optimization.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Razor.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.WebPages.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.WebPages.Razor.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\WebGrease.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Helpers.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Mvc.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Optimization.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.Razor.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.WebPages.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\System.Web.WebPages.Razor.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Newtonsoft.Json.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Antlr3.Runtime.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\EntityFramework.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\EntityFramework.SqlServer.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.csproj.AssemblyReference.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.csproj.CoreCompileInputs.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\obj\Debug\MVCSecur.3D888589.Up2Date
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Lagacy Asp.net Core-MVC\MVCSecurityDemo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\MVCSecurityDemo.dll.config
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\MVCSecurityDemo.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\MVCSecurityDemo.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Antlr3.Runtime.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\EntityFramework.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\EntityFramework.SqlServer.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Newtonsoft.Json.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Owin.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Helpers.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Mvc.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Optimization.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Razor.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.WebPages.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.WebPages.Razor.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\WebGrease.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Helpers.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Mvc.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Optimization.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.Razor.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.WebPages.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\System.Web.WebPages.Razor.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Newtonsoft.Json.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Antlr3.Runtime.pdb
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\EntityFramework.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\EntityFramework.SqlServer.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.csproj.AssemblyReference.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.csproj.CoreCompileInputs.cache
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\obj\Debug\MVCSecur.3D888589.Up2Date
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.dll
+D:\Sumit\Projects\.Net Practice Project\.Net Core & MVC Projects\Live Projects\Projects with Asp.net Core-MVC\MVCSecurity_Demo\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.pdb
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\MVCSecurityDemo.dll.config
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\MVCSecurityDemo.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\MVCSecurityDemo.pdb
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\EntityFramework.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Owin.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Helpers.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Mvc.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Optimization.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Razor.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.WebPages.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\WebGrease.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Helpers.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Mvc.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Optimization.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.Razor.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.WebPages.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\EntityFramework.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\obj\Debug\MVCSecur.3D888589.Up2Date
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.dll
+C:\Users\ASUS\source\repos\sumitbhalgamiya\InfraPortal_MVC\MVCSecurityDemo\obj\Debug\MVCSecurityDemo.pdb

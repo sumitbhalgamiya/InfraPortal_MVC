@@ -1,0 +1,140 @@
+﻿@{
+    ViewBag.Title = "Contact Us";
+}
+
+<style>
+    .contact-container {
+        min-height: calc(100vh - 120px);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        padding: 50px 20px;
+    }
+
+    .contact-card {
+        max-width: 800px;
+        margin: auto;
+        background: #fff;
+        border-radius: 20px;
+        padding: 50px;
+        box-shadow: 0 15px 35px rgba(0,0,0,.15);
+    }
+
+    .contact-title {
+        color: #4f46e5;
+        font-size: 42px;
+        font-weight: 700;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .contact-subtitle {
+        text-align: center;
+        color: #6b7280;
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+
+    .contact-info {
+        background: #f8f9fa;
+        border-left: 5px solid #4f46e5;
+        border-radius: 12px;
+        padding: 30px;
+    }
+
+    .contact-info h4 {
+        color: #4f46e5;
+        font-weight: 600;
+        margin-bottom: 25px;
+    }
+
+    .contact-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+        font-size: 16px;
+        color: #555;
+    }
+
+    .contact-icon {
+        font-size: 24px;
+        width: 40px;
+        text-align: center;
+        margin-right: 15px;
+    }
+
+    .contact-link {
+        color: #4f46e5;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+    .contact-link:hover {
+        text-decoration: underline;
+    }
+
+    @@media(max-width:768px) {
+
+        .contact-card {
+            padding: 30px;
+        }
+
+        .contact-title {
+            font-size: 32px;
+        }
+
+        .contact-item {
+            align-items: flex-start;
+        }
+    }
+</style>
+
+<div class="contact-container">
+
+    <div class="container">
+
+        <div class="contact-card">
+
+            <h1 class="contact-title">Contact Us</h1>
+
+            <p class="contact-subtitle">
+                Get in touch with us for any questions or support.
+            </p>
+
+            <div class="contact-info">
+
+                <h4>Contact Information</h4>
+
+                <div class="contact-item">
+                    <span class="contact-icon">📍</span>
+                    <span>Ahmedabad, Gujarat, India</span>
+                </div>
+
+                <div class="contact-item">
+                    <span class="contact-icon">📞</span>
+                    <span>+91 98765 43210</span>
+                </div>
+
+                <div class="contact-item">
+                    <span class="contact-icon">✉️</span>
+                    <span>
+                        <a href="mailto:support@yourcompany.com" class="contact-link">
+                            support@yourcompany.com
+                        </a>
+                    </span>
+                </div>
+
+                <div class="contact-item">
+                    <span class="contact-icon">🌐</span>
+                    <span>
+                        <a href="#" class="contact-link">
+                            www.yourcompany.com
+                        </a>
+                    </span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

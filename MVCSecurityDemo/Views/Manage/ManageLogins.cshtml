@@ -1,0 +1,278 @@
+﻿@model MVCSecurityDemo.Models.ManageLoginsViewModel
+@using Microsoft.Owin.Security
+
+@{
+    ViewBag.Title = "Manage External Logins";
+}
+
+<style>
+    .page-container {
+        min-height: calc(100vh - 120px);
+        background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+        padding: 40px 20px;
+    }
+
+    .login-card {
+        max-width: 900px;
+        margin: auto;
+        background: #fff;
+        border-radius: 20px;
+        padding: 40px;
+        box-shadow: 0 15px 35px rgba(0,0,0,.15);
+    }
+
+    .page-title {
+        text-align: center;
+        color: #4f46e5;
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+    .page-subtitle {
+        text-align: center;
+        color: #6b7280;
+        margin-bottom: 30px;
+    }
+
+    .status-message {
+        background: #d1fae5;
+        color: #065f46;
+        padding: 12px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    .section-title {
+        color: #4f46e5;
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    .custom-table {
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0,0,0,.05);
+    }
+
+        .custom-table thead {
+            background: #4f46e5;
+            color: white;
+        }
+
+        .custom-table th {
+            padding: 15px;
+            border: none;
+        }
+
+        .custom-table td {
+            padding: 15px;
+            vertical-align: middle;
+        }
+
+    .btn-remove {
+        background: #dc3545;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 8px 18px;
+        font-weight: 600;
+    }
+
+        .btn-remove:hover {
+            background: #bb2d3b;
+            color: #fff;
+        }
+
+    .provider-card {
+        background: #f8f9fa;
+        border-radius: 12px;
+        padding: 20px;
+        margin-bottom: 15px;
+        text-align: center;
+        transition: .3s;
+    }
+
+        .provider-card:hover {
+            transform: translateY(-3px);
+        }
+
+    .btn-provider {
+        background: #4f46e5;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 10px 20px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+        .btn-provider:hover {
+            background: #4338ca;
+            color: #fff;
+        }
+
+    .info-box {
+        background: #f8fafc;
+        border-left: 4px solid #4f46e5;
+        padding: 20px;
+        border-radius: 8px;
+        color: #555;
+    }
+
+    .back-link {
+        text-align: center;
+        margin-top: 25px;
+    }
+
+        .back-link a {
+            color: #4f46e5;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+            .back-link a:hover {
+                text-decoration: underline;
+            }
+</style>
+
+<div class="page-container">
+
+    ```
+    <div class="container">
+
+        <div class="login-card">
+
+            <h2 class="page-title">
+                🌐 Manage External Logins
+            </h2>
+
+            <p class="page-subtitle">
+                Manage your linked social and external authentication providers.
+            </p>
+
+            @if (!String.IsNullOrEmpty(ViewBag.StatusMessage))
+            {
+                <div class="status-message">
+                    @ViewBag.StatusMessage
+                </div>
+            }
+
+            @{
+                var loginProviders = Context.GetOwinContext()
+                                            .Authentication
+                                            .GetExternalAuthenticationTypes();
+
+                if (loginProviders.Count() == 0)
+                {
+                    <div class="info-box">
+                        No external authentication providers are currently configured.
+                    </div>
+                }
+                else
+                {
+                    if (Model.CurrentLogins.Count > 0)
+                    {
+                        <h4 class="section-title">
+                            Connected Accounts
+                        </h4>
+
+                        <table class="table custom-table">
+                            <thead>
+                                <tr>
+                                    <th>Provider</th>
+                                    <th width="180">Action</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+
+                                @foreach (var account in Model.CurrentLogins)
+                                {
+                                    <tr>
+
+                                        <td>
+                                            @account.LoginProvider
+                                        </td>
+
+                                        <td>
+
+                                            @if (ViewBag.ShowRemoveButton)
+                                            {
+                                                using (Html.BeginForm("RemoveLogin", "Manage"))
+                                                {
+                                                    @Html.AntiForgeryToken()
+
+                                                    @Html.Hidden("loginProvider", account.LoginProvider)
+                                                    @Html.Hidden("providerKey", account.ProviderKey)
+
+                                                    <button type="submit"
+                                                            class="btn btn-remove">
+                                                        Remove
+                                                    </button>
+                                                }
+                                            }
+
+                                        </td>
+
+                                    </tr>
+                                }
+
+                            </tbody>
+
+                        </table>
+                    }
+
+                    if (Model.OtherLogins.Count > 0)
+                    {
+                        <hr />
+
+                        <h4 class="section-title">
+                            Available Providers
+                        </h4>
+
+                        using (Html.BeginForm("LinkLogin", "Manage"))
+                        {
+                            @Html.AntiForgeryToken()
+
+                            <div class="row">
+
+                                @foreach (AuthenticationDescription p in Model.OtherLogins)
+                                {
+                                    <div class="col-md-4 col-sm-6">
+
+                                        <div class="provider-card">
+
+                                            <h4>
+                                                @p.AuthenticationType
+                                            </h4>
+
+                                            <button type="submit"
+                                                    name="provider"
+                                                    value="@p.AuthenticationType"
+                                                    class="btn btn-provider">
+                                                Connect
+                                            </button>
+
+                                        </div>
+
+                                    </div>
+                                }
+
+                            </div>
+                        }
+                    }
+                }
+            }
+
+            <div class="back-link">
+                @Html.ActionLink("← Back to Dashboard", "Index", "Manage")
+            </div>
+
+        </div>
+
+    </div>
+    ```
+
+</div>
